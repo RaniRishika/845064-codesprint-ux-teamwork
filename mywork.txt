@@ -7,16 +7,16 @@ Team lead:
 My Role in team:
 1. To develop homepage and contact us component
 My development files:
-1. home.component.html
-2. contact.component.html
-3.home.component.css
-4.contact.component.css
-5.Reactive Forms
-6.Routing
+1.placeorder.component.html
+2.placeorder.component.css
+3.vieworder.component.html
+4.vieworder.component.css
+5.services
+6.db.json.
+7.Models.
 
 I was strong in:
-1.Reactive Forms
-2.Routing
-3.UI
+1.Services
+2.Learned and worked on json server
 
 
